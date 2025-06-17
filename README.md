@@ -21,6 +21,6 @@ This is a simple and responsive **personal portfolio website** built using **HTM
 
 ## 🔗 Live Demo
 
-[Click here to view the live website](#) *(replace with your GitHub Pages or hosting link)*
+https://balaanand26.github.io/Portfolio-simple-website/index.html
 
 
