@@ -18,9 +18,10 @@ This is a simple and responsive **personal portfolio website** built using **HTM
 * Responsive design for different screen sizes
 * Easy to navigate between pages
 * Lightweight and fast-loading
+  
 
-## 🔗 Live Demo
+## 🎯 Purpose
 
-https://balaanand26.github.io/Portfolio-simple-website/index.html
+This project was built as a practice exercise for mastering HTML and CSS basics. It mimics a real-world layout to understand positioning, spacing, and design principles.
 
 
